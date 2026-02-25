@@ -1,0 +1,29 @@
+body{
+    font-family: Arial;
+    background:#f4f6f9;
+    text-align:center;
+}
+
+.card{
+    background:white;
+    width:400px;
+    margin:50px auto;
+    padding:20px;
+    border-radius:10px;
+    box-shadow:0 5px 15px rgba(0,0,0,0.2);
+}
+
+.ativo{
+    color:green;
+    font-weight:bold;
+}
+
+.vencido{
+    color:red;
+    font-weight:bold;
+}
+
+.alerta{
+    color:orange;
+    font-weight:bold;
+}
