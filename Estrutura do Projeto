@@ -1,0 +1,6 @@
+academia-sistema/
+│
+├── index.php
+├── cadastro.php
+├── verificar.php
+├── style.css
